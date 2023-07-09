@@ -1,0 +1,3592 @@
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396545)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396545
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+ecm: 15/30 curves on C63, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.1091 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 5
+P2 = 31
+P12 = 209593386127
+P15 = 114113001116713
+P49 = 1654705818710740578239260528929272540899450379021
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396547)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396547
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+Total factoring time = 0.0471 seconds
+
+
+***factors found***
+
+P3 = 733
+P18 = 514235265507459289
+P57 = 146467703340888167151344091622992314431906911985246019831
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396549)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396549
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+ecm: 30/30 curves on C58, B1=2K, B2=gmp-ecm default
+ecm: 41/41 curves on C58, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c58: 3172156403318342416959289197510693605838665269297533235333
+
+==== sieving in progress (1 thread):    3120 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+2684 rels found: 1533 full + 1151 from 12248 partial, (16103.42 rels/sec)
+
+SIQS elapsed time = 0.9972 seconds.
+Total factoring time = 1.7720 seconds
+
+
+***factors found***
+
+P4 = 1663
+P17 = 10465521197733631
+P30 = 638123432250923736545129010571
+P28 = 4971070239700871692461618223
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396551)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396551
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0424 seconds
+
+
+***factors found***
+
+P1 = 3
+P77 = 18402907715152992160423933536306271812691857254649326585165503619868181465517
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396553)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396553
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C68
+rho: x^2 + 1, starting 1000 iterations on C68
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C68
+ecm: 0/30 curves on C68, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0716 seconds
+
+
+***factors found***
+
+P1 = 7
+P2 = 13
+P2 = 37
+P6 = 501229
+P10 = 3686644817
+P58 = 8873543812029262236475874957994768315734301228269795650363
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396555)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396555
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 23/30 curves on C77, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.1697 seconds
+
+
+***factors found***
+
+P1 = 5
+P17 = 22540255925183873
+P60 = 489867757746043508688968972463456902641239249448772324291407
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396557)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396557
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+Total factoring time = 0.0368 seconds
+
+
+***factors found***
+
+P1 = 3
+P6 = 127549
+P72 = 144281081899136740863698919915532633048411647716950556924519232764413531
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396559)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396559
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 1, starting 1000 iterations on C72
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C72
+Total factoring time = 0.0569 seconds
+
+
+***factors found***
+
+P2 = 67
+P4 = 1091
+P16 = 2133977385313483
+P57 = 353930783094785696067905184957040980623754504465726079909
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396561)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396561
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+Total factoring time = 0.0358 seconds
+
+
+***factors found***
+
+P2 = 17
+P8 = 87144647
+P68 = 37266453666774058646270912158345069014006220069508639675485552104439
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396563)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396563
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C63
+rho: x^2 + 2, starting 1000 iterations on C63
+rho: x^2 + 1, starting 1000 iterations on C63
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C63
+ecm: 0/30 curves on C63, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0646 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 3
+P1 = 3
+P2 = 19
+P2 = 23
+P3 = 307
+P4 = 4517
+P4 = 7457
+P13 = 1620808268071
+P50 = 93058702846469904914403547113674500454334262175503
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396565)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396565
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+Total factoring time = 0.0547 seconds
+
+
+***factors found***
+
+P1 = 5
+P2 = 11
+P2 = 83
+P9 = 831386089
+P65 = 14546689458017214240014268129424481224070577055661983482704698009
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396567)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396567
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C76
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C76
+Total factoring time = 0.0727 seconds
+
+
+***factors found***
+
+P1 = 7
+P1 = 7
+P9 = 781755181
+P67 = 1441255092393959797656799025603388121405704851597032029618847915843
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396569)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396569
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 1, starting 1000 iterations on C72
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C72
+ecm: 30/30 curves on C72, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C72, B1=11K, B2=gmp-ecm default
+ecm: 83/83 curves on C72, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c72: 173013319122970396461533497572614361716433266470327513093022305977118669
+
+==== sieving in progress (1 thread):   16656 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+15338 rels found: 8262 full + 7076 from 76292 partial, (3358.19 rels/sec)
+
+SIQS elapsed time = 27.5056 seconds.
+Total factoring time = 33.9518 seconds
+
+
+***factors found***
+
+P1 = 3
+P6 = 106367
+P27 = 239675019565952888307587741
+P45 = 721866298107722607818221258328193519196769009
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396571)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396571
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 30/30 curves on C77, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C77, B1=11K, B2=gmp-ecm default
+ecm: 89/149 curves on C77, B1=50K, B2=gmp-ecm default, ETA: 4 sec
+Total factoring time = 7.4380 seconds
+
+
+***factors found***
+
+P21 = 343016976523077318617
+P57 = 160950410399715807007413956971769419907487641173601286163
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396573)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396573
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+Total factoring time = 0.0370 seconds
+
+
+***factors found***
+
+P6 = 763409
+P71 = 72318669475286480092940744226121011722517774566383131133503156053445197
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396575)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396575
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C68
+rho: x^2 + 1, starting 1000 iterations on C68
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C68
+ecm: 2/30 curves on C59, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0884 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 5
+P1 = 5
+P3 = 149
+P5 = 58217
+P10 = 3441517523
+P14 = 43803928535551
+P45 = 562920807990573071315520877739661749998798469
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396577)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396577
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 30/30 curves on C77, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C77, B1=11K, B2=gmp-ecm default
+ecm: 7/149 curves on C77, B1=50K, B2=gmp-ecm default, ETA: 10 sec
+
+starting SIQS on c56: 49121319539954011768393642123509858755014372856099955923
+
+==== sieving in progress (1 thread):    2688 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+2568 rels found: 1324 full + 1244 from 11474 partial, (19581.59 rels/sec)
+
+SIQS elapsed time = 0.7105 seconds.
+Total factoring time = 2.8647 seconds
+
+
+***factors found***
+
+P22 = 1123925897400895917499
+P25 = 2032057928302643180301623
+P32 = 24173188596539931460805221004101
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396579)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396579
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C76
+Total factoring time = 0.0387 seconds
+
+
+***factors found***
+
+P2 = 13
+P8 = 28548869
+P69 = 148756325770488427785600248657887194809378564076453174852556562033507
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396581)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396581
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C66
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C66
+ecm: 30/30 curves on C53, B1=2K, B2=gmp-ecm default
+ecm: 18/18 curves on C53, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c53: 64876257779276297410340848796527975209649823634755449
+
+==== sieving in progress (1 thread):    2000 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+1828 rels found: 973 full + 855 from 7928 partial, (35463.28 rels/sec)
+
+SIQS elapsed time = 0.2904 seconds.
+Total factoring time = 0.6839 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 7
+P2 = 29
+P8 = 79333609
+P13 = 5871190249783
+P19 = 1899634549960164221
+P35 = 34151967693279092890674921934980269
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396583)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396583
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C69
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C69
+ecm: 3/30 curves on C58, B1=2K, B2=gmp-ecm default
+ecm: 16/26 curves on C45, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.1253 seconds
+
+
+***factors found***
+
+P9 = 446894417
+P11 = 12981204241
+P14 = 37865689396957
+P18 = 922266233294619271
+P27 = 272511989612383843019768437
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396585)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396585
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+ecm: 30/30 curves on C74, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C74, B1=11K, B2=gmp-ecm default
+ecm: 110/110 curves on C74, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c74: 97714554239750400851808496652953655642611631440615893372560196211689459109
+
+==== sieving in progress (1 thread):   24672 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+23200 rels found: 11714 full + 11486 from 120496 partial, (2607.53 rels/sec)
+
+SIQS elapsed time = 53.7148 seconds.
+Total factoring time = 61.7746 seconds
+
+
+***factors found***
+
+P1 = 5
+P3 = 113
+P49 = 2950935689762557696528788881731360047609430162537
+P26 = 33113074804965622821998557
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396587)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396587
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C76
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C76
+ecm: 0/30 curves on C76, B1=2K, B2=gmp-ecm default
+ecm: 29/29 curves on C54, B1=2K, B2=gmp-ecm default
+ecm: 9/23 curves on C54, B1=11K, B2=gmp-ecm default
+fac: factoring 1842167290928836540169
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C22
+rho: x^2 + 2, starting 1000 iterations on C22
+rho: x^2 + 1, starting 1000 iterations on C22
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C22
+ecm: 1/30 curves on C22, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0362 seconds
+Total factoring time = 0.3302 seconds
+
+
+***factors found***
+
+P1 = 3
+P2 = 11
+P16 = 2349764444672903
+P39 = 386491874883863622830093750540489868277
+P10 = 3393153847
+P12 = 542907092927
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396589)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396589
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 30/30 curves on C77, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C77, B1=11K, B2=gmp-ecm default
+ecm: 48/149 curves on C77, B1=50K, B2=gmp-ecm default, ETA: 7 sec
+Total factoring time = 4.7086 seconds
+
+
+***factors found***
+
+P22 = 1006596886915169152529
+P56 = 54846904320012749906208813031017932019678311549333410141
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396591)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396591
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C76
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C76
+ecm: 30/30 curves on C52, B1=2K, B2=gmp-ecm default
+ecm: 14/14 curves on C52, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c52: 3828476645521080160037799975241381113326513665566227
+
+==== sieving in progress (1 thread):    1744 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+1574 rels found: 847 full + 727 from 6999 partial, (33449.44 rels/sec)
+
+SIQS elapsed time = 0.2735 seconds.
+fac: factoring 335361532264405670056031
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C24
+rho: x^2 + 2, starting 1000 iterations on C24
+rho: x^2 + 1, starting 1000 iterations on C24
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C24
+ecm: 1/30 curves on C24, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0277 seconds
+Total factoring time = 0.6142 seconds
+
+
+***factors found***
+
+P2 = 43
+P24 = 263783649605213434995271
+P29 = 14513699583923771485782497237
+P9 = 541331711
+P15 = 619512076329121
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396593)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396593
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 1, starting 1000 iterations on C70
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C70
+ecm: 30/30 curves on C70, B1=2K, B2=gmp-ecm default
+ecm: 60/74 curves on C70, B1=11K, B2=gmp-ecm default
+Total factoring time = 1.1256 seconds
+
+
+***factors found***
+
+P1 = 3
+P7 = 2774929
+P21 = 365067658899373709087
+P50 = 18166079558028004106518400875044131469527130334997
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396595)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396595
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 1, starting 1000 iterations on C72
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C72
+ecm: 2/30 curves on C72, B1=2K, B2=gmp-ecm default
+ecm: 27/27 curves on C63, B1=2K, B2=gmp-ecm default
+ecm: 25/63 curves on C63, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.5500 seconds
+
+
+***factors found***
+
+P1 = 5
+P1 = 7
+P2 = 17
+P3 = 349
+P9 = 929576471
+P19 = 1230298907189032063
+P45 = 232471409893635846030929983611528375572395213
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396597)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396597
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0367 seconds
+
+
+***factors found***
+
+P3 = 229
+P75 = 241086127272746622188959827986545045581116033903702968364613584539757835793
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396599)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396599
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C69
+rho: x^2 + 2, starting 1000 iterations on C64
+rho: x^2 + 1, starting 1000 iterations on C64
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C64
+ecm: 2/30 curves on C64, B1=2K, B2=gmp-ecm default
+ecm: 4/27 curves on C51, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0802 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P3 = 491
+P5 = 25243
+P6 = 176777
+P13 = 7516208807963
+P15 = 854361142002869
+P36 = 435990122606710846032014966813547913
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396601)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396601
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C71
+rho: x^2 + 2, starting 1000 iterations on C71
+rho: x^2 + 1, starting 1000 iterations on C71
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C71
+ecm: 30/30 curves on C59, B1=2K, B2=gmp-ecm default
+ecm: 45/45 curves on C59, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c59: 98051754743577154918552793521797255750276020597862828947543
+
+==== sieving in progress (1 thread):    3408 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+3426 rels found: 1677 full + 1749 from 15911 partial, (10510.53 rels/sec)
+
+SIQS elapsed time = 1.7247 seconds.
+Total factoring time = 2.5946 seconds
+
+
+***factors found***
+
+P2 = 19
+P3 = 383
+P3 = 443
+P12 = 174661116337
+P36 = 256983030732747647548508194049292631
+P24 = 381549530581835049425153
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396603)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396603
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 30/30 curves on C69, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C69, B1=11K, B2=gmp-ecm default
+ecm: 2/44 curves on C69, B1=50K, B2=gmp-ecm default, ETA: 3 sec
+Total factoring time = 1.4570 seconds
+
+
+***factors found***
+
+P9 = 519672737
+P21 = 823233109094898772079
+P48 = 129049088312423638264396333881660345359447151061
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396605)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396605
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+rho: x^2 + 1, starting 1000 iterations on C75
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C75
+ecm: 5/30 curves on C75, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0897 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 5
+P2 = 13
+P14 = 70808357918503
+P61 = 3998421450220032391087495896975243269188927864384896941079913
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396607)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396607
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 1, starting 1000 iterations on C70
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C70
+ecm: 2/30 curves on C70, B1=2K, B2=gmp-ecm default
+ecm: 27/27 curves on C58, B1=2K, B2=gmp-ecm default
+ecm: 5/41 curves on C58, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.2564 seconds
+
+
+***factors found***
+
+P2 = 31
+P2 = 61
+P5 = 11489
+P12 = 542139054199
+P18 = 175821257237695637
+P41 = 26659492005411391976632695218508775424711
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396609)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396609
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C67
+rho: x^2 + 2, starting 1000 iterations on C60
+Total factoring time = 0.0219 seconds
+
+
+***factors found***
+
+P1 = 7
+P2 = 11
+P2 = 23
+P2 = 41
+P6 = 268133
+P7 = 6909533
+P7 = 6644843
+P53 = 61762035154553770928867867696425179726507311985814897
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396611)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396611
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+Total factoring time = 0.0347 seconds
+
+
+***factors found***
+
+P1 = 3
+P3 = 503
+P7 = 4168583
+P67 = 8776674866360906867263795010972122757059119574726858383609746723713
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396613)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396613
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 30/30 curves on C77, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C77, B1=11K, B2=gmp-ecm default
+ecm: 149/149 curves on C77, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c77: 55208723145458976481271800608918815438075571763947979755496510859604544396613
+
+==== sieving in progress (1 thread):   35008 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+35179 rels found: 18007 full + 17172 from 183265 partial, (2787.89 rels/sec)
+
+SIQS elapsed time = 73.4052 seconds.
+Total factoring time = 84.4894 seconds
+
+
+***factors found***
+
+P39 = 188473222069998143349386719941755726311
+P39 = 292926085409388790329114797826820624883
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396615)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396615
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 1, starting 1000 iterations on C70
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C70
+ecm: 30/30 curves on C70, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C70, B1=11K, B2=gmp-ecm default
+ecm: 56/56 curves on C70, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c70: 1555554548452840445502186536151808713873074456996430531316762181303767
+
+==== sieving in progress (1 thread):   11520 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+10911 rels found: 5735 full + 5176 from 52765 partial, (3828.24 rels/sec)
+
+SIQS elapsed time = 16.3794 seconds.
+Total factoring time = 21.0125 seconds
+
+
+***factors found***
+
+P1 = 5
+P2 = 47
+P6 = 151027
+P36 = 236530054757607507961539599797207189
+P34 = 6576561909001161292885982104079803
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396617)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396617
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+ecm: 30/30 curves on C74, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C74, B1=11K, B2=gmp-ecm default
+ecm: 110/110 curves on C74, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c74: 12244116909616095915119050922359462283893451267231754215013641796319482013
+
+==== sieving in progress (1 thread):   22000 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+19440 rels found: 10673 full + 8767 from 98501 partial, (3084.39 rels/sec)
+
+SIQS elapsed time = 39.7758 seconds.
+Total factoring time = 47.6752 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 3
+P3 = 167
+P25 = 1331149407406322406529421
+P49 = 9198153747048681177071372599461068834109958268753
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396619)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396619
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C68
+rho: x^2 + 2, starting 1000 iterations on C62
+rho: x^2 + 1, starting 1000 iterations on C62
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C62
+ecm: 30/30 curves on C54, B1=2K, B2=gmp-ecm default
+ecm: 23/23 curves on C54, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c54: 376725604894737745752850609782093728356509620527924079
+
+==== sieving in progress (1 thread):    2128 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+1620 rels found: 829 full + 791 from 7995 partial, (18102.48 rels/sec)
+
+SIQS elapsed time = 0.6190 seconds.
+Total factoring time = 1.0630 seconds
+
+
+***factors found***
+
+P3 = 641
+P6 = 914279
+P7 = 5826949
+P8 = 42914551
+P24 = 126462344023487682715907
+P31 = 2978954785345185448481249487397
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396621)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396621
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C70
+Total factoring time = 0.0305 seconds
+
+
+***factors found***
+
+P4 = 2389
+P4 = 9839
+P6 = 886913
+P64 = 2648253604228201673544122522176078254723075409768946954959236727
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396623)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396623
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+Total factoring time = 0.0412 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 7
+P3 = 163
+P6 = 577537
+P68 = 27926788197389944947081587265574256749482552101327179174707816838673
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396625)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396625
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C65
+rho: x^2 + 2, starting 1000 iterations on C59
+rho: x^2 + 1, starting 1000 iterations on C59
+rho: x^2 + 1, starting 1000 iterations on C53
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C53
+ecm: 0/30 curves on C53, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0552 seconds
+
+
+***factors found***
+
+P1 = 5
+P1 = 5
+P1 = 5
+P6 = 135467
+P6 = 236297
+P6 = 230939
+P7 = 5424451
+P10 = 8784953059
+P43 = 1253757235022652471462384926719201782091277
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396627)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396627
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C76
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C76
+ecm: 30/30 curves on C67, B1=2K, B2=gmp-ecm default
+ecm: 31/74 curves on C67, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c44: 11744098624242458832550264783189785266638357
+
+==== sieving in progress (1 thread):     992 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+875 rels found: 501 full + 374 from 3729 partial, (65371.60 rels/sec)
+
+SIQS elapsed time = 0.0819 seconds.
+Total factoring time = 0.7514 seconds
+
+
+***factors found***
+
+P2 = 37
+P9 = 784358479
+P24 = 161983841263245279886357
+P20 = 47503174086741258481
+P24 = 247227661098974573309797
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396629)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396629
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C64
+rho: x^2 + 1, starting 1000 iterations on C64
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C64
+ecm: 30/30 curves on C64, B1=2K, B2=gmp-ecm default
+ecm: 67/67 curves on C64, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c64: 8638271209464489515535347344900508414637280557716985491742418507
+
+==== sieving in progress (1 thread):    6096 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+5657 rels found: 3023 full + 2634 from 26255 partial, (7458.06 rels/sec)
+
+SIQS elapsed time = 4.2710 seconds.
+Total factoring time = 5.4881 seconds
+
+
+***factors found***
+
+P1 = 3
+P2 = 17
+P2 = 59
+P5 = 15749
+P6 = 134867
+P24 = 196452854827403915497319
+P41 = 43971217506886064282647460948514711107453
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396631)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396631
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C69
+Total factoring time = 0.0285 seconds
+
+
+***factors found***
+
+P2 = 11
+P2 = 13
+P7 = 1018337
+P7 = 4176587
+P62 = 90773401446128132918928646228435827451836174159607254049876843
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396633)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396633
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 0/30 curves on C66, B1=2K, B2=gmp-ecm default
+ecm: 29/29 curves on C57, B1=2K, B2=gmp-ecm default
+ecm: 27/35 curves on C57, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.5425 seconds
+
+
+***factors found***
+
+P12 = 440247809509
+P9 = 407599657
+P19 = 5038813949043452477
+P38 = 61058814287068498495149937960866329633
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396635)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396635
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C63
+rho: x^2 + 1, starting 1000 iterations on C63
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C63
+ecm: 30/30 curves on C51, B1=2K, B2=gmp-ecm default
+ecm: 8/8 curves on C51, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c51: 590152225445962977484947350961144710976615852645151
+
+==== sieving in progress (1 thread):    1552 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+1352 rels found: 744 full + 608 from 6070 partial, (26379.36 rels/sec)
+
+SIQS elapsed time = 0.3036 seconds.
+Total factoring time = 0.5671 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 5
+P2 = 53
+P5 = 16007
+P7 = 2278877
+P13 = 1075287111359
+P17 = 38733866257553899
+P35 = 15236078462239002016100538785505949
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396637)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396637
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C69
+rho: x^2 + 1, starting 1000 iterations on C69
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C69
+ecm: 2/30 curves on C69, B1=2K, B2=gmp-ecm default
+ecm: 27/27 curves on C58, B1=2K, B2=gmp-ecm default
+ecm: 41/41 curves on C58, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c58: 6262481526441622874795432286381789630884138489431438625821
+
+==== sieving in progress (1 thread):    3120 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+2938 rels found: 1538 full + 1400 from 13463 partial, (11304.65 rels/sec)
+
+SIQS elapsed time = 1.4509 seconds.
+Total factoring time = 2.3225 seconds
+
+
+***factors found***
+
+P1 = 7
+P3 = 263
+P5 = 61169
+P11 = 78284552993
+P30 = 124294547728304004588725302633
+P29 = 50384201406250004053827634837
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396639)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396639
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C69
+rho: x^2 + 2, starting 1000 iterations on C69
+rho: x^2 + 1, starting 1000 iterations on C69
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C69
+ecm: 30/30 curves on C69, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C69, B1=11K, B2=gmp-ecm default
+ecm: 44/44 curves on C69, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c69: 185707755791899130286925995103070963326402847636629752583199665987423
+
+==== sieving in progress (1 thread):   10512 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+7993 rels found: 4177 full + 3816 from 43724 partial, (2998.26 rels/sec)
+
+SIQS elapsed time = 19.8928 seconds.
+Total factoring time = 23.9611 seconds
+
+
+***factors found***
+
+P2 = 19
+P2 = 19
+P2 = 29
+P2 = 73
+P3 = 389
+P44 = 24396628996638401522416256161049391058087643
+P25 = 7612025244040383725088461
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396641)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396641
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0449 seconds
+
+
+***factors found***
+
+P1 = 3
+P77 = 18402907715152992160423933536306271812691857254649326585165503619868181465547
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396643)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396643
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 30/30 curves on C77, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C77, B1=11K, B2=gmp-ecm default
+ecm: 149/149 curves on C77, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c77: 55208723145458976481271800608918815438075571763947979755496510859604544396643
+
+==== sieving in progress (1 thread):   35008 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+34510 rels found: 17805 full + 16705 from 179597 partial, (2541.63 rels/sec)
+
+SIQS elapsed time = 79.7305 seconds.
+Total factoring time = 91.0189 seconds
+
+
+***factors found***
+
+P54 = 108144381964393408779872450196418228650972116018067409
+P24 = 510509396259127689757427
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396645)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396645
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+ecm: 30/30 curves on C74, B1=2K, B2=gmp-ecm default
+ecm: 32/74 curves on C74, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c55: 1997931035825620655149419559872208197166760399351794243
+
+==== sieving in progress (1 thread):    2320 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+2097 rels found: 1129 full + 968 from 9154 partial, (23382.57 rels/sec)
+
+SIQS elapsed time = 0.5015 seconds.
+Total factoring time = 1.1844 seconds
+
+
+***factors found***
+
+P1 = 5
+P3 = 941
+P19 = 5873102521103404183
+P22 = 6277378139714369399741
+P33 = 318274762386152774696008192372223
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396647)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396647
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C65
+rho: x^2 + 1, starting 1000 iterations on C65
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C65
+ecm: 30/30 curves on C65, B1=2K, B2=gmp-ecm default
+ecm: 52/72 curves on C65, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.9891 seconds
+
+
+***factors found***
+
+P1 = 3
+P4 = 1031
+P4 = 8599
+P5 = 65599
+P19 = 3386714809448177447
+P46 = 9343379484248070162231288388786830078824645557
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396649)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396649
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C65
+rho: x^2 + 1, starting 1000 iterations on C65
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C65
+ecm: 30/30 curves on C65, B1=2K, B2=gmp-ecm default
+ecm: 12/72 curves on C65, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.3674 seconds
+
+
+***factors found***
+
+P2 = 89
+P4 = 4397
+P7 = 2875937
+P21 = 408159234455379803327
+P45 = 120185544624504912952711954956653875688240747
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396651)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396651
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 1, starting 1000 iterations on C73
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C73
+ecm: 1/30 curves on C73, B1=2K, B2=gmp-ecm default
+ecm: 28/28 curves on C60, B1=2K, B2=gmp-ecm default
+ecm: 19/49 curves on C60, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.4791 seconds
+
+
+***factors found***
+
+P1 = 7
+P2 = 79
+P2 = 97
+P13 = 3941653098899
+P16 = 1667325904227637
+P45 = 156607277608633461573495171541037010291375197
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396653)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396653
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0381 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P2 = 11
+P75 = 557663870156151277588604046554735509475510825898464441974712230905096408047
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396655)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396655
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C69
+rho: x^2 + 2, starting 1000 iterations on C63
+rho: x^2 + 1, starting 1000 iterations on C63
+Total factoring time = 0.0276 seconds
+
+
+***factors found***
+
+P1 = 5
+P2 = 23
+P3 = 179
+P5 = 14969
+P7 = 1168627
+P9 = 262007003
+P54 = 585160803801155097931509951815230184259113698800079087
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396657)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396657
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0356 seconds
+
+
+***factors found***
+
+P2 = 13
+P76 = 4246824857342998190867061585301447341390428597226767673499731604584964953589
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396659)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396659
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0366 seconds
+
+
+***factors found***
+
+P1 = 3
+P3 = 199
+P74 = 92476923191723578695597655961338049310009332937936314498319113667679303847
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396661)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396661
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C67
+rho: x^2 + 1, starting 1000 iterations on C67
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C67
+ecm: 30/30 curves on C67, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C67, B1=11K, B2=gmp-ecm default
+ecm: 17/17 curves on C67, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c67: 7584732917610324684889437922686653928497820297847516143050535214481
+
+==== sieving in progress (1 thread):    9152 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+6920 rels found: 3637 full + 3283 from 36824 partial, (4009.28 rels/sec)
+
+SIQS elapsed time = 12.4472 seconds.
+Total factoring time = 14.8589 seconds
+
+
+***factors found***
+
+P4 = 2837
+P7 = 2565713
+P41 = 10730648603509250819834597431750282606859
+P27 = 706828934378662317526482259
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396663)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396663
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C69
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C69
+Total factoring time = 0.0597 seconds
+
+
+***factors found***
+
+P2 = 17
+P7 = 8770301
+P16 = 1180291477230521
+P54 = 313729250313113951268437354871460930709411916081783659
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396665)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396665
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+Total factoring time = 0.0298 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 5
+P1 = 7
+P1 = 7
+P3 = 313
+P6 = 409327
+P66 = 586280748810855155894919833065758773142066452653622903734232316689
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396667)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396667
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+Total factoring time = 0.0649 seconds
+
+
+***factors found***
+
+P13 = 1748177901937
+P65 = 31580723611874463602972537640454675710358119109607954110497509291
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396669)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396669
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0322 seconds
+
+
+***factors found***
+
+P2 = 31
+P2 = 71
+P3 = 137
+P3 = 983
+P69 = 186257416805266148559280744493742995809609060404360067331999138653739
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396671)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396671
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 1, starting 1000 iterations on C72
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C72
+ecm: 0/30 curves on C58, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0507 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 3
+P5 = 10321
+P14 = 21824945582771
+P9 = 225790343
+P50 = 40203478226448000808279274582512928413665070202521
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396673)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396673
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 1, starting 1000 iterations on C73
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C73
+ecm: 30/30 curves on C59, B1=2K, B2=gmp-ecm default
+ecm: 45/45 curves on C59, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c59: 21704057333453556644633173357750483043442587291016113958701
+
+==== sieving in progress (1 thread):    3264 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+3024 rels found: 1603 full + 1421 from 13536 partial, (11696.20 rels/sec)
+
+SIQS elapsed time = 1.4138 seconds.
+Total factoring time = 2.4256 seconds
+
+
+***factors found***
+
+P5 = 37199
+P14 = 68381009802827
+P20 = 18656464854790724113
+P40 = 1163353159474918026155525876658719754077
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396675)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396675
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C61
+Total factoring time = 0.0215 seconds
+
+
+***factors found***
+
+P1 = 5
+P1 = 5
+P2 = 11
+P3 = 103
+P3 = 379
+P10 = 1076621363
+P6 = 321829
+P56 = 14842614421935892744399051904341438860057574458653107003
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396677)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396677
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C69
+rho: x^2 + 1, starting 1000 iterations on C69
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C69
+ecm: 30/30 curves on C69, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C69, B1=11K, B2=gmp-ecm default
+ecm: 36/44 curves on C69, B1=50K, B2=gmp-ecm default, ETA: 1 sec
+Total factoring time = 3.5540 seconds
+
+
+***factors found***
+
+P1 = 3
+P2 = 19
+P2 = 43
+P5 = 31249
+P24 = 219545103361471626074647
+P46 = 3283254230098601192232664544714789126102046209
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396679)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396679
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C76
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C76
+Total factoring time = 0.0703 seconds
+
+
+***factors found***
+
+P1 = 7
+P9 = 187440733
+P68 = 42077089238395596513525158306910815406592372826720173963694213115509
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396681)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396681
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C71
+rho: x^2 + 2, starting 1000 iterations on C71
+rho: x^2 + 2, starting 1000 iterations on C66
+rho: x^2 + 2, starting 1000 iterations on C61
+rho: x^2 + 1, starting 1000 iterations on C61
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C61
+ecm: 30/30 curves on C61, B1=2K, B2=gmp-ecm default
+ecm: 55/55 curves on C61, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c61: 1299144236690965500403434470808780657357012908420171366796881
+
+==== sieving in progress (1 thread):    3888 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+3699 rels found: 1914 full + 1785 from 17173 partial, (11002.14 rels/sec)
+
+SIQS elapsed time = 1.8632 seconds.
+Total factoring time = 2.8683 seconds
+
+
+***factors found***
+
+P3 = 157
+P4 = 8933
+P6 = 132383
+P6 = 228887
+P25 = 2549928423185390127953713
+P36 = 509482628954762802230749875107381537
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396683)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396683
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 1, starting 1000 iterations on C76
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C76
+ecm: 30/30 curves on C76, B1=2K, B2=gmp-ecm default
+ecm: 38/74 curves on C76, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.8045 seconds
+
+
+***factors found***
+
+P1 = 3
+P2 = 13
+P22 = 8229201552755172212413
+P54 = 172022556101697087547458965539419966802072897320571969
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396685)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396685
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 4/30 curves on C77, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0894 seconds
+
+
+***factors found***
+
+P1 = 5
+P12 = 339172019171
+P65 = 32554998658438538603803192917672306861767243480740660142405937347
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396687)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396687
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C64
+rho: x^2 + 1, starting 1000 iterations on C64
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C64
+ecm: 30/30 curves on C49, B1=2K, B2=gmp-ecm default
+
+starting SIQS on c49: 6849079338324849951496608420182787492854340994061
+
+==== sieving in progress (1 thread):    1280 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+1260 rels found: 612 full + 648 from 5432 partial, (38607.72 rels/sec)
+
+SIQS elapsed time = 0.1770 seconds.
+Total factoring time = 0.3106 seconds
+
+
+***factors found***
+
+P3 = 109
+P4 = 4549
+P8 = 12948493
+P16 = 1255491696841559
+P26 = 58019232093685434015532169
+P24 = 118048431376434479917669
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396689)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396689
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C70
+Total factoring time = 0.0295 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P3 = 277
+P4 = 3677
+P7 = 2648287
+P64 = 2274190002272333782261721953294651218786441054743511113517867127
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396691)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396691
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 1, starting 1000 iterations on C73
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C73
+ecm: 0/30 curves on C62, B1=2K, B2=gmp-ecm default
+ecm: 0/29 curves on C54, B1=2K, B2=gmp-ecm default
+ecm: 0/28 curves on C43, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0484 seconds
+
+
+***factors found***
+
+P2 = 41
+P3 = 211
+P12 = 146699689327
+P8 = 70132697
+P12 = 101952863429
+P9 = 529349089
+P35 = 11493440681753531859637998519056419
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396693)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396693
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 1, starting 1000 iterations on C70
+Total factoring time = 0.0350 seconds
+
+
+***factors found***
+
+P1 = 7
+P2 = 67
+P5 = 13789
+P10 = 1142138633
+P61 = 7474519286305061754588365906478399745810271915985621601893581
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396695)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396695
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 1, starting 1000 iterations on C70
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C70
+ecm: 30/30 curves on C70, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C70, B1=11K, B2=gmp-ecm default
+ecm: 56/56 curves on C70, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c70: 3636366957198027614322242559974524123718083276372452665078412308712007
+
+==== sieving in progress (1 thread):   12208 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+12224 rels found: 6089 full + 6135 from 59690 partial, (3301.53 rels/sec)
+
+SIQS elapsed time = 20.4685 seconds.
+Total factoring time = 25.1548 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 5
+P7 = 1012159
+P39 = 162637618990197563169776847503738027771
+P32 = 22358707535045735221566191226917
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396697)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396697
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C71
+rho: x^2 + 2, starting 1000 iterations on C71
+rho: x^2 + 1, starting 1000 iterations on C71
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C71
+ecm: 30/30 curves on C62, B1=2K, B2=gmp-ecm default
+ecm: 59/59 curves on C62, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c62: 17280912039571185712521628617816445063862101573598754891553459
+
+==== sieving in progress (1 thread):    4576 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+3646 rels found: 1814 full + 1832 from 19098 partial, (8529.17 rels/sec)
+
+SIQS elapsed time = 2.9320 seconds.
+Total factoring time = 4.0150 seconds
+
+
+***factors found***
+
+P2 = 11
+P2 = 17
+P2 = 29
+P3 = 331
+P10 = 1779809191
+P42 = 141921825380214984015020125400200848187561
+P21 = 121763597623373581819
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396699)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396699
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0361 seconds
+
+
+***factors found***
+
+P3 = 487
+P75 = 113364934590264838770578646014207013219867703827408582660157106487894341677
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396701)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396701
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+ecm: 30/30 curves on C74, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C74, B1=11K, B2=gmp-ecm default
+ecm: 26/110 curves on C74, B1=50K, B2=gmp-ecm default, ETA: 5 sec
+Total factoring time = 2.9758 seconds
+
+
+***factors found***
+
+P1 = 3
+P2 = 23
+P2 = 37
+P26 = 16864305383732523733590473
+P49 = 1282296421413699700357301155940474037538544268829
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396703)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396703
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 1, starting 1000 iterations on C72
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C72
+ecm: 30/30 curves on C72, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C72, B1=11K, B2=gmp-ecm default
+ecm: 83/83 curves on C72, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c72: 880704502455995285805219592721278980300151096143506305222717802089819969
+
+==== sieving in progress (1 thread):   18432 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+18487 rels found: 9128 full + 9359 from 94106 partial, (3016.13 rels/sec)
+
+SIQS elapsed time = 35.3117 seconds.
+Total factoring time = 41.6375 seconds
+
+
+***factors found***
+
+P5 = 62687
+P31 = 3614932350997697528500073134667
+P42 = 243629594399719995203546117438521746031907
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396705)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396705
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C66
+rho: x^2 + 2, starting 1000 iterations on C66
+rho: x^2 + 1, starting 1000 iterations on C66
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C66
+ecm: 3/30 curves on C49, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0643 seconds
+
+
+***factors found***
+
+P1 = 5
+P3 = 107
+P3 = 283
+P3 = 859
+P4 = 2251
+P17 = 22772364802088243
+P12 = 309304773727
+P38 = 26773433592501834575687849268341508689
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396707)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396707
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 1, starting 1000 iterations on C73
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C73
+Total factoring time = 0.0707 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 7
+P3 = 101
+P12 = 193420492163
+P62 = 44858350062459615901519995604128836370216980899218151719698803
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396709)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396709
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 1, starting 1000 iterations on C70
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C70
+ecm: 30/30 curves on C70, B1=2K, B2=gmp-ecm default
+ecm: 22/74 curves on C70, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.5533 seconds
+
+
+***factors found***
+
+P2 = 13
+P2 = 13
+P2 = 47
+P4 = 2903
+P16 = 3113805238665131
+P54 = 768926200999398782955688018590232686733994554304512591
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396711)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396711
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+Total factoring time = 0.0354 seconds
+
+
+***factors found***
+
+P4 = 1951
+P6 = 655559
+P68 = 43165686228293358027683268308170411739134885305105046498636189500479
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396713)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396713
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 1, starting 1000 iterations on C70
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C70
+ecm: 30/30 curves on C70, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C70, B1=11K, B2=gmp-ecm default
+ecm: 56/56 curves on C70, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c70: 9315508283242374087350441903599860802076147944685419222837563518877467
+
+==== sieving in progress (1 thread):   13088 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+13113 rels found: 6514 full + 6599 from 66085 partial, (3826.06 rels/sec)
+
+SIQS elapsed time = 19.5703 seconds.
+Total factoring time = 24.2257 seconds
+
+
+***factors found***
+
+P1 = 3
+P3 = 191
+P5 = 10343
+P24 = 279159383330875387877321
+P47 = 33369855500078642190406931946937083828991973827
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396715)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396715
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 1, starting 1000 iterations on C73
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C73
+ecm: 30/30 curves on C73, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C73, B1=11K, B2=gmp-ecm default
+ecm: 95/95 curves on C73, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c73: 1983428171203843236259091094266887567381913840989688512861379948252363729
+
+==== sieving in progress (1 thread):   20224 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+17962 rels found: 10121 full + 7841 from 86996 partial, (4302.79 rels/sec)
+
+SIQS elapsed time = 25.6063 seconds.
+Total factoring time = 32.9282 seconds
+
+
+***factors found***
+
+P1 = 5
+P2 = 19
+P3 = 293
+P40 = 1859840852820741530691997693124421370771
+P34 = 1066450480532063845890824924719499
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396717)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396717
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C66
+Total factoring time = 0.0297 seconds
+
+
+***factors found***
+
+P5 = 46219
+P7 = 2821463
+P7 = 6814057
+P59 = 62130813017492463812841860117312713765674947376296308283273
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396719)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396719
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0374 seconds
+
+
+***factors found***
+
+P1 = 3
+P2 = 11
+P4 = 2341
+P72 = 714648274441885447571897539369588435893435488122765196891984917862148323
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396721)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396721
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0347 seconds
+
+
+***factors found***
+
+P1 = 7
+P3 = 743
+P74 = 10615020793204956062540242378180891259003186264939046290231976708249287521
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396723)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396723
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0395 seconds
+
+
+***factors found***
+
+P77 = 55208723145458976481271800608918815438075571763947979755496510859604544396723
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396725)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396725
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+Total factoring time = 0.0331 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 3
+P1 = 3
+P1 = 5
+P1 = 5
+P5 = 20611
+P70 = 1322767793188677901977831581216522052244080902836804265623390862474959
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396727)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396727
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C71
+rho: x^2 + 2, starting 1000 iterations on C71
+rho: x^2 + 1, starting 1000 iterations on C71
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C71
+ecm: 30/30 curves on C71, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C71, B1=11K, B2=gmp-ecm default
+ecm: 69/69 curves on C71, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c71: 19683819121969046552104427770521084363596668028847919016555152462960351
+
+==== sieving in progress (1 thread):   13984 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+12226 rels found: 6015 full + 6211 from 66613 partial, (2868.75 rels/sec)
+
+SIQS elapsed time = 28.5186 seconds.
+Total factoring time = 33.9575 seconds
+
+
+***factors found***
+
+P3 = 839
+P4 = 3343
+P27 = 278919445662825641762405059
+P44 = 70571698847286588331582667266317409392023989
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396729)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396729
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C71
+Total factoring time = 0.0305 seconds
+
+
+***factors found***
+
+P2 = 61
+P5 = 14827
+P6 = 250267
+P66 = 243905162532913433693395832682188105098721972703637594906261447621
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396731)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396731
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0375 seconds
+
+
+***factors found***
+
+P1 = 3
+P2 = 17
+P2 = 31
+P2 = 83
+P72 = 420724439659655521374086864413394111078664348200757334884101955142044797
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396733)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396733
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C67
+rho: x^2 + 1, starting 1000 iterations on C67
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C67
+ecm: 0/30 curves on C59, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0510 seconds
+
+
+***factors found***
+
+P4 = 6421
+P7 = 1334393
+P8 = 67765367
+P12 = 124582921031
+P48 = 763229193873333009009883631560176804716245362193
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396735)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396735
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C71
+rho: x^2 + 2, starting 1000 iterations on C71
+rho: x^2 + 1, starting 1000 iterations on C71
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C71
+ecm: 30/30 curves on C61, B1=2K, B2=gmp-ecm default
+ecm: 55/55 curves on C61, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c61: 1009679416033124245265668647685186676877222775917848616226033
+
+==== sieving in progress (1 thread):    3888 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+3900 rels found: 1919 full + 1981 from 18161 partial, (8828.48 rels/sec)
+
+SIQS elapsed time = 2.3331 seconds.
+Total factoring time = 3.3785 seconds
+
+
+***factors found***
+
+P1 = 5
+P1 = 7
+P2 = 13
+P4 = 3907
+P11 = 30758800307
+P40 = 1911054445036499188839947588418423066103
+P21 = 528336290290170356311
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396737)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396737
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 2/30 curves on C67, B1=2K, B2=gmp-ecm default
+ecm: 27/27 curves on C55, B1=2K, B2=gmp-ecm default
+ecm: 26/26 curves on C55, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c55: 4581752778752717035114474047885259586574007745009818783
+
+==== sieving in progress (1 thread):    2400 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+2083 rels found: 1184 full + 899 from 9030 partial, (25359.01 rels/sec)
+
+SIQS elapsed time = 0.4813 seconds.
+Total factoring time = 0.9780 seconds
+
+
+***factors found***
+
+P1 = 3
+P10 = 5044315519
+P12 = 796255697227
+P27 = 446654055023063984698733891
+P29 = 10257945108135485182374500213
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396739)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396739
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+Total factoring time = 0.0319 seconds
+
+
+***factors found***
+
+P3 = 367
+P5 = 36697
+P70 = 4099312972034923930871837381068637528528274869854233773127777661339061
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396741)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396741
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 1, starting 1000 iterations on C73
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C73
+ecm: 12/30 curves on C73, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.1173 seconds
+
+
+***factors found***
+
+P2 = 11
+P2 = 11
+P2 = 53
+P15 = 143530795500007
+P59 = 59979296998131557280788075940832889454647831892043631540351
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396743)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396743
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C67
+rho: x^2 + 1, starting 1000 iterations on C67
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C67
+ecm: 30/30 curves on C67, B1=2K, B2=gmp-ecm default
+ecm: 5/74 curves on C67, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.2709 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P4 = 1877
+P6 = 998681
+P19 = 1197808132571385221
+P49 = 2732038883130238401665558691331200519888555727951
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396745)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396745
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C71
+rho: x^2 + 2, starting 1000 iterations on C71
+rho: x^2 + 2, starting 1000 iterations on C66
+rho: x^2 + 2, starting 1000 iterations on C60
+rho: x^2 + 1, starting 1000 iterations on C60
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C60
+ecm: 30/30 curves on C60, B1=2K, B2=gmp-ecm default
+ecm: 21/49 curves on C60, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.5164 seconds
+
+
+***factors found***
+
+P1 = 5
+P3 = 421
+P3 = 919
+P5 = 48991
+P7 = 1800973
+P19 = 6672276733949965939
+P41 = 48477758929023468227838294732592914503263
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396747)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396747
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C69
+rho: x^2 + 1, starting 1000 iterations on C69
+rho: x^2 + 1, starting 1000 iterations on C61
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C61
+ecm: 30/30 curves on C61, B1=2K, B2=gmp-ecm default
+ecm: 55/55 curves on C61, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c61: 1138244921724812510407518057228172546597938309107882926871663
+
+==== sieving in progress (1 thread):    3888 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+2956 rels found: 1530 full + 1426 from 15416 partial, (8356.53 rels/sec)
+
+SIQS elapsed time = 2.5307 seconds.
+Total factoring time = 3.5529 seconds
+
+
+***factors found***
+
+P2 = 23
+P2 = 59
+P6 = 159421
+P9 = 224205677
+P22 = 7718140673916214007911
+P39 = 147476571082924133448566473334570024633
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396749)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396749
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C67
+rho: x^2 + 1, starting 1000 iterations on C67
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C67
+ecm: 0/30 curves on C67, B1=2K, B2=gmp-ecm default
+ecm: 1/29 curves on C54, B1=2K, B2=gmp-ecm default
+ecm: 4/27 curves on C43, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0835 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 7
+P4 = 1187
+P7 = 1285789
+P14 = 16067191530737
+P11 = 52096428883
+P13 = 9049941895637
+P30 = 227391521419067444762982300529
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396751)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396751
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0429 seconds
+
+
+***factors found***
+
+P77 = 55208723145458976481271800608918815438075571763947979755496510859604544396751
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396753)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396753
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C63
+rho: x^2 + 2, starting 1000 iterations on C63
+rho: x^2 + 2, starting 1000 iterations on C59
+rho: x^2 + 2, starting 1000 iterations on C51
+rho: x^2 + 1, starting 1000 iterations on C51
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C51
+Total factoring time = 0.0435 seconds
+
+
+***factors found***
+
+P2 = 19
+P3 = 127
+P3 = 227
+P3 = 401
+P3 = 829
+P3 = 977
+P5 = 15527
+P8 = 61111159
+P11 = 43331526067
+P40 = 7547775935615701834289144986077210228961
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396755)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396755
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C67
+rho: x^2 + 2, starting 1000 iterations on C61
+rho: x^2 + 1, starting 1000 iterations on C61
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C61
+ecm: 30/30 curves on C61, B1=2K, B2=gmp-ecm default
+ecm: 12/55 curves on C61, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.4016 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 5
+P2 = 29
+P3 = 181
+P6 = 188359
+P7 = 2385073
+P18 = 113836633317458411
+P44 = 13711020364439321865181291248233612581925729
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396757)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396757
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+ecm: 30/30 curves on C74, B1=2K, B2=gmp-ecm default
+ecm: 30/74 curves on C74, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.7136 seconds
+
+
+***factors found***
+
+P4 = 4817
+P17 = 15213460105754381
+P57 = 753360866104859749375445360481906494481896893350693241241
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396759)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396759
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0339 seconds
+
+
+***factors found***
+
+P4 = 5953
+P73 = 9274100981934986810225399060796038205623311231975135184864187948866881303
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396761)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396761
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C70
+Total factoring time = 0.0280 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P2 = 13
+P3 = 317
+P3 = 773
+P6 = 118589
+P65 = 16238229615259455062088907347169091976444229025005953279033727817
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396763)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396763
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 1, starting 1000 iterations on C73
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C73
+Total factoring time = 0.0671 seconds
+
+
+***factors found***
+
+P1 = 7
+P1 = 7
+P2 = 11
+P2 = 43
+P9 = 817489919
+P64 = 2913855938860588374220498328990564279140359424319965787475360701
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396765)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396765
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C71
+Total factoring time = 0.0297 seconds
+
+
+***factors found***
+
+P1 = 5
+P2 = 17
+P5 = 27743
+P6 = 555857
+P65 = 42118439902343654699797201875717308838357156678825593166008228359
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396767)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396767
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 30/30 curves on C47, B1=2K, B2=gmp-ecm default
+
+starting SIQS on c47: 58375166168312662182364080071832793840644177217
+
+==== sieving in progress (1 thread):    1184 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+1022 rels found: 564 full + 458 from 4488 partial, (42252.81 rels/sec)
+
+SIQS elapsed time = 0.1518 seconds.
+fac: factoring 315252339703702625970686753717
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C30
+rho: x^2 + 2, starting 1000 iterations on C30
+rho: x^2 + 1, starting 1000 iterations on C30
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C30
+ecm: 16/30 curves on C30, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0727 seconds
+Total factoring time = 0.3890 seconds
+
+
+***factors found***
+
+P1 = 3
+P22 = 1765991244959459946719
+P26 = 33055184353222952199435743
+P14 = 12654778693327
+P17 = 24911722863232571
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396769)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396769
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 1, starting 1000 iterations on C72
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C72
+ecm: 30/30 curves on C72, B1=2K, B2=gmp-ecm default
+ecm: 31/74 curves on C72, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.6784 seconds
+
+
+***factors found***
+
+P3 = 241
+P4 = 1609
+P19 = 2368334499887553347
+P53 = 60116207506397339431933674728133469707454819469075683
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396771)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396771
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C75
+rho: x^2 + 2, starting 1000 iterations on C75
+rho: x^2 + 1, starting 1000 iterations on C75
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C75
+ecm: 30/30 curves on C66, B1=2K, B2=gmp-ecm default
+ecm: 8/74 curves on C66, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c51: 165256276545606138336900988981525405422113738543279
+
+==== sieving in progress (1 thread):    1424 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+1260 rels found: 682 full + 578 from 5364 partial, (36930.93 rels/sec)
+
+SIQS elapsed time = 0.1969 seconds.
+Total factoring time = 0.4874 seconds
+
+
+***factors found***
+
+P3 = 467
+P9 = 285939421
+P16 = 2501835932264107
+P29 = 27032742879317314058583962329
+P22 = 6113189374950305700551
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396773)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396773
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0341 seconds
+
+
+***factors found***
+
+P1 = 3
+P2 = 41
+P3 = 197
+P4 = 1801
+P70 = 1265093582208018515873002029006780848484630356104650332523744331428283
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396775)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396775
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C69
+rho: x^2 + 1, starting 1000 iterations on C69
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C69
+ecm: 7/30 curves on C69, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.1030 seconds
+
+
+***factors found***
+
+P1 = 5
+P1 = 5
+P2 = 37
+P6 = 451039
+P11 = 85876564043
+P58 = 1540909791342547765855259970630144980731586771101528323079
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396777)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396777
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 1, starting 1000 iterations on C70
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C70
+ecm: 30/30 curves on C70, B1=2K, B2=gmp-ecm default
+ecm: 17/74 curves on C70, B1=11K, B2=gmp-ecm default
+Total factoring time = 0.4775 seconds
+
+
+***factors found***
+
+P1 = 7
+P4 = 1597
+P4 = 2917
+P20 = 14389915452745776809
+P51 = 117654915280328774955508957226617227130672404792071
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396779)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396779
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C76
+rho: x^2 + 2, starting 1000 iterations on C70
+rho: x^2 + 2, starting 1000 iterations on C64
+rho: x^2 + 1, starting 1000 iterations on C64
+rho: x^2 + 1, starting 1000 iterations on C56
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C56
+ecm: 21/30 curves on C56, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.1461 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P1 = 3
+P6 = 362203
+P6 = 809869
+P8 = 76256491
+P15 = 217863707255707
+P42 = 419580613645037229799848439586072369482103
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396781)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396781
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0341 seconds
+
+
+***factors found***
+
+P3 = 347
+P4 = 1439
+P72 = 110564939920772263161601177188206698612099684507028335310296957860995657
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396783)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396783
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0439 seconds
+
+
+***factors found***
+
+P77 = 55208723145458976481271800608918815438075571763947979755496510859604544396783
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396785)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396785
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0318 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 5
+P2 = 11
+P2 = 73
+P3 = 151
+P71 = 30354560654421733335132216994723877863132223127921497340544982177543123
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396787)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396787
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C73
+rho: x^2 + 2, starting 1000 iterations on C73
+rho: x^2 + 1, starting 1000 iterations on C73
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C73
+ecm: 0/30 curves on C73, B1=2K, B2=gmp-ecm default
+Total factoring time = 0.0933 seconds
+
+
+***factors found***
+
+P2 = 13
+P3 = 431
+P16 = 3473837264348149
+P58 = 2836466187957751791296361284537541498264960573075422803021
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396789)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396789
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C74
+rho: x^2 + 2, starting 1000 iterations on C74
+rho: x^2 + 1, starting 1000 iterations on C74
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C74
+ecm: 30/30 curves on C74, B1=2K, B2=gmp-ecm default
+ecm: 74/74 curves on C74, B1=11K, B2=gmp-ecm default
+ecm: 110/110 curves on C74, B1=50K, B2=gmp-ecm default, ETA: 0 sec
+
+starting SIQS on c74: 22617256511863570864920852359245725292124363688630880686397587406638486029
+
+==== sieving in progress (1 thread):   22896 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+20864 rels found: 10991 full + 9873 from 106105 partial, (2892.22 rels/sec)
+
+SIQS elapsed time = 44.5859 seconds.
+Total factoring time = 52.9522 seconds
+
+
+***factors found***
+
+P4 = 2441
+P31 = 2384312996567017105238289706081
+P43 = 9485858838343943097688850677721435653547309
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396791)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396791
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0365 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 7
+P2 = 19
+P75 = 138367727181601444815217545385761442200690656049994936730567696389986326809
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396793)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396793
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C72
+rho: x^2 + 2, starting 1000 iterations on C68
+rho: x^2 + 1, starting 1000 iterations on C68
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C68
+ecm: 30/30 curves on C60, B1=2K, B2=gmp-ecm default
+ecm: 49/49 curves on C60, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c60: 104681103797339091830709437272836609595687996096388202527453
+
+==== sieving in progress (1 thread):    3488 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+3337 rels found: 1714 full + 1623 from 15487 partial, (10690.72 rels/sec)
+
+SIQS elapsed time = 1.7083 seconds.
+Total factoring time = 2.6223 seconds
+
+
+***factors found***
+
+P2 = 23
+P2 = 31
+P3 = 131
+P5 = 32563
+P9 = 173402029
+P32 = 90638889315920781807429762181841
+P28 = 1154924829589143979226118733
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396795)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396795
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+rho: x^2 + 3, starting 1000 iterations on C77
+rho: x^2 + 2, starting 1000 iterations on C77
+rho: x^2 + 1, starting 1000 iterations on C77
+pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+ecm: 30/30 curves on C77, B1=2K, B2=gmp-ecm default
+ecm: 49/74 curves on C77, B1=11K, B2=gmp-ecm default
+
+starting SIQS on c60: 266693584816562225941368443908530070501302950705016385054481
+
+==== sieving in progress (1 thread):    3552 relations needed ====
+====           Press ctrl-c to abort and save state           ====
+2623 rels found: 1394 full + 1229 from 13728 partial, (8243.92 rels/sec)
+
+SIQS elapsed time = 2.3129 seconds.
+Total factoring time = 3.3186 seconds
+
+
+***factors found***
+
+P1 = 5
+P17 = 41402363077786639
+P37 = 2055797482080092699409547645481111569
+P24 = 129727556892771792840449
+
+ans = 1
+
+=== Starting work on batchfile expression ===
+factor(55208723145458976481271800608918815438075571763947979755496510859604544396797)
+=============================================
+fac: factoring 55208723145458976481271800608918815438075571763947979755496510859604544396797
+fac: using pretesting plan: normal
+fac: no tune info: using qs/gnfs crossover of 95 digits
+div: primes less than 10000
+fmt: 1000000 iterations
+Total factoring time = 0.0436 seconds
+
+
+***factors found***
+
+P1 = 3
+P1 = 3
+P76 = 6134302571717664053474644512102090604230619084883108861721834539956060488533
+
+ans = 1
+
+eof; done processing batchfile
